@@ -2,14 +2,19 @@
 
 # Learn python
 
-- Using print | Hello World
-- Comments
-- Strings
-- Numeric Data Types
-- Date
-- Error Handling
-- Conditional Logic
-- Collections
-- Loops
-- Functions
-- Modules and Packages
+- Begineer
+    - Using print | Hello World
+    - Comments
+    - Strings
+    - Numeric Data Types
+    - Date
+    - Error Handling
+    - Conditional Logic
+    - Collections
+    - Loops
+    - Functions
+    - Modules and Packages
+    - Virtual Environments
+    - JSON
+    - Managing Keys
+    - Decorators
