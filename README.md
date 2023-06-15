@@ -1,4 +1,8 @@
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="20%" height="20%"/> </a> </p>
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="20%" height="20%"/>
+    </a>
+</p>
 
 # Learn python
 
@@ -18,3 +22,6 @@
     - JSON
     - Managing Keys
     - Decorators
+    - Formatting and Linting
+    - Lambdas
+    - Classes
